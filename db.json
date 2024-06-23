@@ -1,0 +1,47 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "titulo": "Doctor Strange",
+        "Precio": "$99.990",
+        "imagen": "https://www.kametoys.cl/wp-content/uploads/2022/05/dr_strange_ht.jpg"
+      },
+      {
+        "id": 2,
+        "titulo": "iron man",
+        "Precio": "$99.990",
+        "imagen": "https://www.kametoys.cl/wp-content/uploads/2019/07/Mark85-Endgame.jpg"
+      },
+      {
+        "id": 3,
+        "titulo": "Jean Grey",
+        "Precio": "$99.990",
+        "imagen": "https://www.kametoys.cl/wp-content/uploads/2019/04/jean-grey.jpg"
+      },
+      {
+        "id": 4,
+        "titulo": "President Loki",
+        "Precio": "$99.990",
+        "imagen": "https://www.kametoys.cl/wp-content/uploads/2021/12/loki_president.jpg"
+      },
+      {
+        "id": 5,
+        "titulo": "Magik",
+        "Precio": "$99.990",
+        "imagen": "https://www.kametoys.cl/wp-content/uploads/2021/09/magik_iron-studios.jpg"
+      },
+      {
+        "id": 6,
+        "titulo": "Rocket Raccoon",
+        "Precio": "$99.990",
+        "imagen": "https://www.kametoys.cl/wp-content/uploads/2019/07/Rocket-Endgame.jpg"
+      },
+      {
+        "id": 7,
+        "titulo": "Rocket Raccoon",
+        "Precio": "$99.990",
+        "imagen": "https://www.kametoys.cl/wp-content/uploads/2019/07/Rocket-Endgame.jpg"
+      }
+      
+    ]
+  }
